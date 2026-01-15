@@ -1,4 +1,5 @@
 🐍 Simple Python Projects
+
 📌 About the Repository
 
 This repository contains a collection of simple and beginner-friendly Python projects created to practice and strengthen core programming concepts. Each project focuses on building a strong foundation in Python through hands-on implementation and logical thinking.
